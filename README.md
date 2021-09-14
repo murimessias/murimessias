@@ -1,6 +1,6 @@
 ## Hi there, I'm Murilo Messias 👋🏾
 
-#### About me
+### About me
 
 - ✊🏾 Black Front-End Developer from Brazil
 - 🏅 Always trying to new challenges and became able to help others.
@@ -8,8 +8,6 @@
 - 🔎 Looking for opportunities to work as Front-End Developer
 
 If you would like, feel free to contact me. You can send me an email.
-
----
 
 ```ts
 const murimessias = {
@@ -28,7 +26,5 @@ const murimessias = {
   contact: "murilo.messias@gmail.com",
 };
 ```
-
----
 
 > "Irmão, você não percebeu que você é o único representante do seu sonho na face da terra se isso não fizer você correr, chapa eu não sei o que vai" - _Emicida, Levanta e Anda_
