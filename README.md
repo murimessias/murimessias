@@ -19,6 +19,7 @@ const murimessias = {
   hobby: ["games", "run", "coffee", "formula 1"],
   socials: {
     linkedin: "https://www.linkedin.com/in/murimessias",
+    twitter: "https://www.twitter.com/murimessias",
     instagram: "https://www.instagram.com/murimessias",
     instagram: "https://www.instagram.com/murimessias",
     rocketseat: "https://app.rocketseat.com.br/me/murimessias",
