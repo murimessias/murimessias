@@ -3,7 +3,7 @@
 ### About me
 
 - ✊🏾 Black Front-End Developer from Brazil
-- 🏅 Always trying to new challenges and became able to help others.
+- 🏅 Always trying to find new challenges and became able to help others.
 - 🛠️ I’m currently learning TypeScript and ReactJS/NextJS
 - 🔎 Looking for opportunities to work as Front-End Developer
 
