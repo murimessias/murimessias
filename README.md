@@ -4,7 +4,7 @@
 
 - ✊🏾 Black Front-End Developer from Brazil
 - 🏅 Always trying to find new challenges and became able to help others.
-- 🛠️ I’m currently learning TypeScript and ReactJS/NextJS
+- 🛠️ I’m currently learning Elixir to work with Front-End based projects
 - 🔎 Looking for opportunities to work as Front-End Developer
 
 If you would like, feel free to contact me. You can send me an email.
@@ -15,8 +15,8 @@ const murimessias = {
   nickname: "Muri",
   age: 30,
   education: "Graphic Designer",
-  job: "Front-End Developer & Designer",
-  hobby: ["games", "run", "coffee", "formula 1"],
+  job: "Software Engineer",
+  hobby: ["games", "run", "coffee"],
   socials: {
     linkedin: "https://www.linkedin.com/in/murimessias",
     twitter: "https://www.twitter.com/murimessias",
