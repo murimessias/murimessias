@@ -5,7 +5,6 @@
 - ✊🏾 Black Front-End Developer from Brazil
 - 🏅 Always trying to find new challenges and became able to help others.
 - 🛠️ I’m currently learning Elixir to work with Front-End based projects
-- 🔎 Looking for opportunities to work as Front-End Developer
 
 If you would like, feel free to contact me. You can send me an email.
 
