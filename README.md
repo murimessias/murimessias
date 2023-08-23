@@ -14,7 +14,7 @@ const murimessias = {
   nickname: "Muri",
   age: 30,
   education: "Graphic Designer",
-  job: "Software Engineer",
+  job: "Senior Software Engineer FrontEnd",
   hobby: ["games", "run", "coffee"],
   socials: {
     linkedin: "https://www.linkedin.com/in/murimessias",
@@ -22,7 +22,7 @@ const murimessias = {
     instagram: "https://www.instagram.com/murimessias",
     rocketseat: "https://app.rocketseat.com.br/me/murimessias",
   },
-  contact: "murilo.messias@gmail.com",
+  contact: "oi@murimessias.com.br",
 };
 ```
 
