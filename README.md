@@ -4,7 +4,7 @@
 
 - ✊🏾 Black Front-End Developer from Brazil
 - 🏅 Always trying to find new challenges and became able to help others.
-- 🛠️ I’m currently learning Elixir to work with Front-End based projects
+- 🛠️ I’m currently focused on A11y for a more inclusive internet.
 
 If you would like, feel free to contact me. You can send me an email.
 
@@ -12,7 +12,7 @@ If you would like, feel free to contact me. You can send me an email.
 const murimessias = {
   name: "Murilo Messias de Camargo",
   nickname: "Muri",
-  age: 31,
+  age: 32,
   education: "Graphic Designer",
   job: "Senior Software Engineer FrontEnd",
   hobby: ["games", "run", "coffee"],
@@ -20,7 +20,6 @@ const murimessias = {
     linkedin: "https://www.linkedin.com/in/murimessias",
     twitter: "https://www.twitter.com/murimessias",
     instagram: "https://www.instagram.com/murimessias",
-    rocketseat: "https://app.rocketseat.com.br/me/murimessias",
   },
   contact: "oi@murimessias.com.br",
 };
